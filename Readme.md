@@ -78,5 +78,5 @@ Bulto aims to reduce poverty and empower businesses by providing sophisticated y
 Bulto is not just a financial platform; it's a catalyst for change. By unifying essential financial services into a single, easy-to-use platform, it empowers businesses to thrive and grow, ultimately contributing to broader economic development and poverty reduction. For developers, designers, and investors, Bulto offers a chance to be part of a meaningful, innovative venture that combines financial technology with social impact.
 
 ### Links
-[Features](Features.md)
-[Architecture](Services.md)
+- [Bulto's Features Overview](Features.md)
+- [Bulto's Architecture](Services.md)
