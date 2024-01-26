@@ -1,4 +1,5 @@
 ### Bulto Services Overview
+![Architecture](architecture.png)
 
 1. **User Management Service**
    - Manages user accounts, profiles, and authentication.

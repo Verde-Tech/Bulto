@@ -40,7 +40,7 @@ Bulto is an innovative financial technology platform designed to revolutionize h
 ### Technical Specifications:
 
 - **Frontend**: React or Flutter for cross-platform compatibility.
-- **Backend**: Microservices architecture using Go, Rust, and Node.js.
+- **Backend**: Microservices architecture using Rust, and Node.js.
 - **Database**: PostgreSQL or MongoDB, Supabase, SurrealDB.
 - **AI/ML**: Python-based tools for credit scoring and digital assistant functionalities.
 - **Security**: End-to-end encryption, SSL/TLS, MFA, and compliance with PCI DSS.
@@ -76,3 +76,7 @@ Bulto aims to reduce poverty and empower businesses by providing sophisticated y
 ### Conclusion:
 
 Bulto is not just a financial platform; it's a catalyst for change. By unifying essential financial services into a single, easy-to-use platform, it empowers businesses to thrive and grow, ultimately contributing to broader economic development and poverty reduction. For developers, designers, and investors, Bulto offers a chance to be part of a meaningful, innovative venture that combines financial technology with social impact.
+
+### Links
+[Features](Features.md)
+[Architecture](Services.md)
