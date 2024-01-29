@@ -387,7 +387,7 @@ dependencies = [
  "async-graphql",
  "async-graphql-actix-web",
  "chrono",
- "credit_scoring",
+ "credit_scoring 0.1.0 (git+https://github.com/Verde-Tech/bulto-credit-scoring)",
  "env_logger",
  "log",
  "prost",
@@ -839,6 +839,20 @@ dependencies = [
 [[package]]
 name = "credit_scoring"
 version = "0.1.0"
+dependencies = [
+ "env_logger",
+ "log",
+ "prost",
+ "prost-types",
+ "tokio",
+ "tonic",
+ "tonic-build",
+]
+
+[[package]]
+name = "credit_scoring"
+version = "0.1.0"
+source = "git+https://github.com/Verde-Tech/bulto-credit-scoring#7d5c91949127f855812c86d5ddbfd530b8dd122f"
 dependencies = [
  "env_logger",
  "log",
